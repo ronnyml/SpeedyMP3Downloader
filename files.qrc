@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>config.txt</file>
+        <file>downloads.txt</file>
+        <file>README.md</file>
+    </qresource>
+</RCC>
